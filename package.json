@@ -1,0 +1,26 @@
+{
+  "name": "fm-hellonpm",
+  "version": "1.0.0",
+  "description": "Just hello word for npm.",
+  "main": "fm-hellonpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoMarinho/hellonpm.git"
+  },
+  "keywords": [
+    "Hello",
+    "wolrd",
+    "Revealing",
+    "Module",
+    "Pattern"
+  ],
+  "author": "Francisco Marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranciscoMarinho/hellonpm/issues"
+  },
+  "homepage": "https://github.com/FranciscoMarinho/hellonpm#readme"
+}
